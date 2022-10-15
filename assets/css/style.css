@@ -1,0 +1,9 @@
+html {
+    height: 100vh;
+}
+
+body {
+    background: linear-gradient(45deg, #26D0CE, #DAFCFC);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
